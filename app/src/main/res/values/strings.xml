@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">LaboratorioStartedServices</string>
+    <string name="titulo_lab">Laboratorio: Started Services</string>
+    <string name="btn_chiste">Probar chiste (espera 10s)</string>
+    <string name="btn_calificar_taller">Simular calificación de taller</string>
+    <string name="btn_entregar_tarea">Simular entrega de tarea</string>
+    <string name="chiste_pregunta">¿Cuál es el secreto de la comedia?</string>
+    <string name="chiste_respuesta">¡El tiempo!</string>
+    <string name="mensaje_calificacion">Tu taller fue calificado: 4.5 / 5.0</string>
+    <string name="mensaje_entrega">El estudiante Ana Torres entregó la tarea \"Modelado UML\". Pendiente de calificar.</string>
+</resources>
